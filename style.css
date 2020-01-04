@@ -1,3 +1,16 @@
 .NavBar {
   background-color: green;
+  text-align: center;
+}
+
+.Sidebar {
+  background-color: purple;
+}
+
+.ThumbnailLeft {
+  background-color: Red;
+}
+
+.ThumbnailRight {
+  background-color: Blue;
 }
